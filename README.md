@@ -24,6 +24,6 @@ Este proyecto en Python implementa un sistema de manejo de usuarios y puntajes e
 - Tras iniciar sesión, accederás al menú principal con el entrenador de Matemáticas.
 - Al terminar cada sesión de entrenamiento, el puntaje se guardará automáticamente en la base de datos Usuarios.db.
 
-# Uso y Personalización
+## Uso y Personalización
 - Agregar nuevos entrenadores: crear clase que herede de Entrenador y registrar en Home.py.
 - Interfaz de consola: reemplazar os.system('cls') por clear para Unix, o integrar una librería CLI más avanzada.
