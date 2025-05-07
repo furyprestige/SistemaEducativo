@@ -7,7 +7,7 @@ Este proyecto en Python implementa un sistema de manejo de usuarios y puntajes e
 - **Home** y **SesionScreen**: flujo de inicio de sesión y navegación.
 
 ## Requisitos técnicos
-- **Python 3.8+**  
+- **Python 3.12**  
 - Módulo **sqlite3** (incluido en la librería estándar)  
 - Ejecutable en Windows (usa `msvcrt` para pausa) o adaptar `os.system('cls')` a `clear` en Unix  
 - IDE o editor de texto (VSCode, PyCharm, etc.)
@@ -18,7 +18,7 @@ Este proyecto en Python implementa un sistema de manejo de usuarios y puntajes e
 3. Implementar un entrenador de preguntas interactivas.  
 4. Gestionar flujo de usuario: inicio de sesión, creación de cuenta y registro de puntajes.
 
-# Ejecutar la Solución
+## Ejecutar la Solución
 - Ejecuta el código `python main.py`
 - Aparecerá el menú de inicio de sesión o creación de cuenta.
 - Tras iniciar sesión, accederás al menú principal con el entrenador de Matemáticas.
